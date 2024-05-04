@@ -405,7 +405,7 @@ const elem = document.getElementById("p2");
 elem.remove();
 ```
 
-### 14.7.4. 노드 수정하기
+### 14.7.5. 노드 수정하기
 
 ```html
 <body>
